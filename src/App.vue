@@ -14,7 +14,7 @@ export default {
     HelloWorld
   },
   created() {
-	alert('hello world')
+	alert('测试jenkins自动化部署')
   }
 }
 </script>
