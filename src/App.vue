@@ -14,7 +14,7 @@ export default {
     HelloWorld
   },
   created() {
-	alert(999)
+	alert(999666)
   }
 }
 </script>
